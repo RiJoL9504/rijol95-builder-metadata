@@ -1,10 +1,10 @@
 {
   "name": "RiJoL95Builder",
   "pubkey": "04447186f3186b32497311a2462df76e27917c43c4085dd96f4adcbdc0955b9f82b8a5a521c4a5856dd88033cd52dc460307f0893457c9546987f8a0acac68367f",
-  "description": "A high-performance public Ethereum MEV block builder focused on fair, fast, and profitable blocks.",
-  "website": "https://rijol95builder.net",
+  "description": "A high-performance Ethereum MEV builder.",
+  "website": "https://rijol95.ngrok.io",
   "contact": "builder@rijol95builder.net",
-  "relay_url": "http://your_ip:18550",
+  "relay_url": "https://rijol95.ngrok.io",
   "region": "Global",
   "builder_version": "v1.0.0"
 }
