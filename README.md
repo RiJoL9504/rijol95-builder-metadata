@@ -5,7 +5,7 @@
 **RiJoL95Builder** is a fast, open, and fair MEV block builder for Ethereum PoS.
 
 ## 🌐 Public Relay
-- Endpoint: `http://localhost:18550`
+- Endpoint: `https://rijol95.ngrok.io`
 - Supported: `getHeader`, `getPayload`, `submit-bid`
 - Compatible with: `mev-boost`, `Lighthouse`, `Prysm`, `Nimbus`, `Teku`
 
@@ -29,7 +29,7 @@ RiJoL95Builder is designed to be:
 To connect your validator to RiJoL95Builder:
 
 ```
-mev-boost --builder http://localhost:18550
+mev-boost --builder https://rijol95.ngrok.io
 ```
 
 ## 🧠 Maintained by
