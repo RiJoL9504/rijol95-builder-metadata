@@ -29,7 +29,7 @@ RiJoL95Builder is designed to be:
 To connect your validator to RiJoL95Builder:
 
 ```
-mev-boost --builder http://your_ip:18550
+mev-boost --builder http://localhost:18550
 ```
 
 ## 🧠 Maintained by
