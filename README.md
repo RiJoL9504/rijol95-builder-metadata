@@ -23,7 +23,7 @@ RiJoL95Builder is designed to be:
 ## 📫 Contact
 - Email: builder@rijol95builder.net
 - Website: [https://rijol95builder.net](https://rijol95builder.net)
-- GitHub: [https://github.com/rijol95/rijol95-builder-metadata](https://github.com/rijol95/rijol95-builder-metadata)
+- GitHub: [https://github.com/RiJoL9504/rijol95-builder-metadata)
 
 ## 🧩 Integration
 To connect your validator to RiJoL95Builder:
