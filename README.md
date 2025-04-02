@@ -31,7 +31,14 @@ To connect your validator to RiJoL95Builder:
 ```
 mev-boost --builder https://rijol95.ngrok.io
 ```
+```
+git init
+git remote add origin https://github.com/RiJoL9504/rijol95-builder-metadata.git
+git add .
+git commit -m "Initial commit: RiJoL95Builder metadata"
+git push -u origin main
 
+```
 ## 🧠 Maintained by
 - RiJoL95 Dev Team
 
